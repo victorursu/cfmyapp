@@ -8,6 +8,9 @@ const Home = () => {
       <p>
         <Link href="/about">About</Link> page.
       </p>
+        <p>
+         <Link href="/test">Test</Link> page
+        </p>
     </div>
   );
 };
