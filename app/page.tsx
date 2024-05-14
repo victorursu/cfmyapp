@@ -4,9 +4,9 @@ const Home = () => {
   return (
     <div>
       <h1>Home</h1>
-      <p>Hello World! This is the Home page</p>
+      <p>This is the home page cloudflare page</p>
       <p>
-        Visit the <Link href="/about">About</Link> page.
+        <Link href="/about">About</Link> page.
       </p>
     </div>
   );
