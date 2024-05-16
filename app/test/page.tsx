@@ -5,8 +5,8 @@ export default function About() {
         <>
             <h1>Test</h1>
             <div>
-                Test page
-                Back to <Link href="/">Home</Link>
+                Test p123123age
+                Back to <Link href="/">H123123122312</Link>
             </div>
         </>
     );
